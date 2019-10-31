@@ -1,0 +1,1 @@
+Sistema de "Esqueci a Senha", para mandar email com link de redefinição de senha.
